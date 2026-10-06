@@ -1,0 +1,31 @@
+# Segredos# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Credenciais
+.env
+*.env
+
+# Banco de dados
+*.db
+*.sqlite
+
+# Logs
+*.log
+logs/
+
+# Saídas do Prospector
+leads.json
+leads_com_mensagens.json
+enviados.json
+falhas.json
+envios_diarios.json
+warmup_state.json
+demos/
+screenshots/
+
+# Sistema
+.DS_Store
+Thumbs.db
